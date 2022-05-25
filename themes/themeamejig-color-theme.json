@@ -602,7 +602,7 @@
 			"string.unquoted.block.yaml"
 		],
 		"settings": {
-			"foreground": "#8C4C2C"
+			"foreground": "#E7E6E6"
 		  }
 	},
 	{
@@ -611,7 +611,7 @@
 			"constant.language.boolean.yaml"
 		],
 		"settings": {
-			"foreground": "#C87850"
+			"foreground": "#F19E38"
 		  }
 	},
     {
